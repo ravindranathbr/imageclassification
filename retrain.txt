@@ -1,0 +1,2 @@
+Command : 
+python tensorflow/examples/image_retraining/retrain.py --model_dir=/home/datascience/projects/videos/youtube_downloads/flower_model --image_dir /home/datascience/projects/videos/youtube_downloads/continuous-online-video-classification-blog/images/classifications
